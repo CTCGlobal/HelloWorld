@@ -1,6 +1,10 @@
 This is deliverables:
 1) Documentation
 2) Source code
+<<<<<<< HEAD
 
 Assumption:
 1) Source code is clean
+=======
+3) SIT Test Cases
+>>>>>>> branch 'master' of https://github.com/CTCGlobal/HelloWorld.git
